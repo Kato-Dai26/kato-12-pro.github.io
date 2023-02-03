@@ -293,7 +293,7 @@ footer{
   }
 
   .burger.open{
-    background-image: url(../img/close.png);
+    background-image: url("https://raw.githubusercontent.com/Kato-Dai26/kato-12-pro.github.io/13100c74dca8d7bf9c218e48a350403b1443f9aa/close.png");
   }
 
   .burger:hover{

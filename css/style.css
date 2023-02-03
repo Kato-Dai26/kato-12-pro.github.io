@@ -280,7 +280,7 @@ footer{
   .burger{
     width: 40px;
     height: 40px;
-    background-image: url(../img/list.png);
+    background-image: url("https://raw.githubusercontent.com/Kato-Dai26/kato-12-pro.github.io/13100c74dca8d7bf9c218e48a350403b1443f9aa/list.png");
     background-color: rgb(195, 185, 185);
     background-repeat: no-repeat;
     background-position: center;
